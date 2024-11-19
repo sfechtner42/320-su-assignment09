@@ -1,0 +1,2 @@
+2024-09-06 12:29:31,695 - INFO - Calling function reconcile_images with arguments ('testingA09.db', 'test') {}
+2024-09-06 12:29:31,701 - INFO - Function reconcile_images returned ({('test', 'cars\\test\\0000000004.png', '0000000004.png'), ('test', 'pikes\\place\\0000000001.png', '0000000001.png'), ('test', 'tags\\test\\the\\0000000001.png', '0000000001.png')}, {('test', 'test\\pikes\\place', '0000000001.png')})
